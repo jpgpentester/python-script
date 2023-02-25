@@ -16,7 +16,7 @@
 # color.py                                                                     #
 #                                                                              #
 # DATE CREATED        LAST DATE MODIFIED                                       #
-# 21 Feb 2023         24 Feb 2023                                              #
+# 21 Feb 2023         25 Feb 2023                                              #
 #                                                                              #
 # DESCRIPTION                                                                  #
 # Simple script for adding font styles, foreground colors and background       #
